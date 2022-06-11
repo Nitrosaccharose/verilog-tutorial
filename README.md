@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 <div align=center>
-  <img  src="image/1.png" height="30%" width="30%"/>
+  <img  src="image/1.png" height="80%" width="80%"/>
 </div>
 <h1 align="center">
   Verilog初级教程
