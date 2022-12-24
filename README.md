@@ -24,6 +24,13 @@
 我也会将md文件转换为pdf和~~html~~（无法导出正确的mermaid图）方便大家阅读。
 ## 🍔 食用方法
 下载md文件或pdf文件均可，按顺序学习即可！
+
+## 🧧 赞助
+如果喜欢的话，请作者喝杯咖啡吧！（赞助一点点也行喔！非常感谢QWQ）
+<div align=center>
+  <img  src="/image/2dcode.jpg" height="45%" width="45%"/>
+</div>
+
 ## 🤙 联系我
 📥 Email: 931911761@qq.com
 
